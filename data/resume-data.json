@@ -6,7 +6,7 @@
     "status": "求職中 ",
     "phone": "0980-810-286",
     "email": "mago269001@gmail.com",
-    "location": "桃園市龜山區 (雙北/桃園地區)",
+    "location": "桃園市龜山區 (雙北/桃園)",
     "education": "中國科技大學 視覺傳達科 二專畢業",
     "avatar": "images/my.jpg",
     "summary": "擁有近 20 年豐富的跨領域實務經歷（涵蓋行政管理、美編設計、業務客服與生管排程）。具備高度學習力與積極行動力，擅長將美編設計專長（Illustrator、Photoshop）與行政庶務、ERP 系統、AI 協作工具（ChatGPT）完美結合。工作態度嚴謹細心，重視團隊溝通與跨部門協作，致力於透過專業與效率，成為讓團隊信賴、讓客戶安心的核心夥伴。"
@@ -17,7 +17,7 @@
       "Adobe Photoshop",
       "布款印刷實務經驗",
       "社群IG FB 發文",
-      "短影片製作",
+      "短影片剪輯製作",
        "活動企畫發想與執行"
       ,"手繪插畫表現"
     ],
@@ -25,7 +25,7 @@
       "Excel (進階級)",
       "Word / PowerPoint",
       "ERP 系統作業",
-      "ChatGPT / Gemini AI運用",
+      "ChatGPT / Gemini 及多款 AI運用",
       "中文打字 75 字/分",
       "Google 雲端表單",
       "AI 輔助UX網頁設計"
@@ -34,6 +34,7 @@
       "ISO 文件管理與編修",
       "官方LINE管及客服諮詢",
       "官網商品上架及修改",
+      "表單文件製作及管理實務",
       "跨部門溝通協調"
 ]},
   "experiences": [
@@ -163,7 +164,7 @@
      {
       "title": "AI 輔助社群貼文與短影音企劃",
       "category": "行銷企劃 / 短影音",
-      "description": "素材收集的活動文案發想企畫，用用AI輔助似顏繪公仔 進行短影片剪輯完成尾牙電子邀請卡。",
+      "description": "素材收集的活動文案發想企畫，用AI輔助似顏繪公仔 進行短影片剪輯完成尾牙電子邀請卡。",
     "image": "images/myifALL.jpg",
       "link": "https://drive.google.com/file/d/1QQ2K0Ajog4IRoHC6kl33k15RkHhlJCr6/view?usp=drive_link"
     }
